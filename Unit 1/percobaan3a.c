@@ -7,7 +7,7 @@ int main() {
   return 0;
 }
 
+//fungsi \n sebagai tanda end line atau untuk turun baris
 //outputnya akan menjadi 
-
-//Baris pertama Baris kedua
+//Baris pertamaBaris kedua
 //Baris ketiga
