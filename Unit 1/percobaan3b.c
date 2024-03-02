@@ -5,8 +5,8 @@ int main() {
   return 0;
 }
 
+//fungsi \n sebagai tanda end line atau untuk turun baris
 //outputnya akan menjadi
-
 //Oh my, oh my God 
 //예상했어 나 
 //I was really hoping that he will come through
